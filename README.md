@@ -2,7 +2,7 @@
 
 ## Objective
 
-The object of this project is to practice simple HTML knowlegde through the fictional web page named "Unes Universidade".
+The object of this project is to practice simple HTML skills through the fictional web page named "Unes Universidade".
 
 # Run project
 
